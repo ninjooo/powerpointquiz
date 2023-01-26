@@ -19,7 +19,7 @@ let questions = [{
         answer: 1,
     },
     {
-        question: "Коя опция я Няма в първоначалното меню на PowerPoint 365?",
+        question: "Коя опция я  в първоначалното меню на PowerPoint 365?",
         choice1: "Home",
         choice2: "New",
         choice3: "Open",
@@ -27,8 +27,8 @@ let questions = [{
         answer: 4,
     },
     {
-        question: "Кое Не е вярно за създаването на Слайд?",
-        choice1: "Слайдът може да бъде чисто празен",
+        question: "Кое НE е вярно за създаването на Слайд?",
+        choice1: "Може да бъде създаден празен слайд(бял лист)",
         choice2: "Можеш да си избереш layout по твое желание",
         choice3: "Не можеш да променяш layout-а след като вече си го избрал",
         choice4: "Можеш да добяваш текст от менюто insert",
@@ -43,7 +43,7 @@ let questions = [{
         answer: 2,
     },
     {
-        question: "Кое твърдение за Slide Show не е вярно?",
+        question: "Кое твърдение за Slide Show НЕ е вярно?",
         choice1: "По време на Slide Show можеш да рисуваш",
         choice2: "По време на Slide Show можеш да връщаш слайдовете назад",
         choice3: "По време на Slide Show можеш да отидеш на който си slide искаш",
